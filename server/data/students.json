@@ -1,0 +1,89 @@
+[
+  {
+    "id": "s1",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "college": "BMS College of Engineering",
+    "teach": [
+      "React",
+      "JavaScript",
+      "Node.js"
+    ],
+    "learn": [
+      "UI/UX",
+      "Figma",
+      "SQL"
+    ],
+    "bio": "Frontend-focused CS student who builds side projects on weekends.",
+    "createdAt": "2026-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "s2",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "college": "Christ University",
+    "teach": [
+      "UI/UX",
+      "Figma",
+      "Canva"
+    ],
+    "learn": [
+      "React",
+      "JavaScript"
+    ],
+    "bio": "Design student who wants to turn mockups into working apps.",
+    "createdAt": "2026-01-11T09:00:00.000Z"
+  },
+  {
+    "id": "s3",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "college": "PES University",
+    "teach": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "learn": [
+      "Public Speaking",
+      "Video Editing",
+      "DSA"
+    ],
+    "bio": "ML enthusiast preparing for campus placements.",
+    "createdAt": "2026-01-12T09:00:00.000Z"
+  },
+  {
+    "id": "s4",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@example.com",
+    "college": "RV College of Engineering",
+    "teach": [
+      "Public Speaking",
+      "Video Editing",
+      "Content Writing"
+    ],
+    "learn": [
+      "Python",
+      "Machine Learning"
+    ],
+    "bio": "Runs the college media club and loves storytelling.",
+    "createdAt": "2026-01-13T09:00:00.000Z"
+  },
+  {
+    "id": "s5",
+    "name": "Karthik Iyer",
+    "email": "karthik.iyer@example.com",
+    "college": "Dayananda Sagar University",
+    "teach": [
+      "Java",
+      "DSA",
+      "SQL"
+    ],
+    "learn": [
+      "React",
+      "Machine Learning"
+    ],
+    "bio": "Competitive programmer looking to get into web and AI.",
+    "createdAt": "2026-01-14T09:00:00.000Z"
+  }
+]
