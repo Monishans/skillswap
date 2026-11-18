@@ -50,18 +50,6 @@ git remote add origin https://github.com/<you>/skillswap.git
 git push -u origin main
 ```
 
-## Deploy on Render (do the backend first)
-### 1. Backend – Web Service
-New + → Web Service → connect repo, then:
-- Root Directory: `server`
-- Build Command: `npm install`
-- Start Command: `npm start`
-- Env var `CLIENT_URL` = your frontend URL (add it after step 2; you can put a placeholder first)
-- Env var `MONGODB_URI` = your Atlas connection string
-- `PORT` is provided by Render automatically; do not set it.
-
-Check `https://<backend>.onrender.com/api/health`.
-
 ### 2. Frontend – Static Site
 New + → Static Site → same repo, then:
 - Root Directory: `client`
